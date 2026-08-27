@@ -1,5 +1,5 @@
-# Project
-Lab Week 6
-Git Merge Conflict
-Testing branches
-Color: Green
+Line 1
+Line 2
+Line 3
+Line 4
+Red
